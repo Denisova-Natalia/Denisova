@@ -1,4 +1,4 @@
-package lesson12HoweWork.InterfaceDuck;
+package lesson12.lesson12HoweWork.InterfaceDuck;
 
 public interface BaseDuck {
     void swimmingDuck();

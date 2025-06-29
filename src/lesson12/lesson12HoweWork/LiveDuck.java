@@ -1,6 +1,6 @@
-package lesson12HoweWork;
+package lesson12.lesson12HoweWork;
 
-import lesson12HoweWork.InterfaceDuck.BaseDuck;
+import lesson12.lesson12HoweWork.InterfaceDuck.BaseDuck;
 
 public class LiveDuck extends Duck implements BaseDuck {
     private boolean isFlying ;

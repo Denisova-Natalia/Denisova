@@ -1,4 +1,4 @@
-package lesson9HomeWork.part1;
+package lesson9.lesson9HomeWork.part1;
 
 public abstract class Shape {
 

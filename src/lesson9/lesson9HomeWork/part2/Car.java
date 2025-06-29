@@ -1,4 +1,4 @@
-package lesson9HomeWork.part2;
+package lesson9.lesson9HomeWork.part2;
 
 public class Car {
     private String brend;
